@@ -1,6 +1,6 @@
 import React from 'react';
 import { Route, Link } from 'wouter';
-import MyCheckbox from './components/MyCheckbox'; 
+/*import MyCheckbox from './MyCheckbox'; */
 import image1 from './assets/camarografo.png'
 import image2 from './assets/camarografo2.png'
 import image3 from './assets/footer.png'
@@ -43,10 +43,11 @@ function App() {
         </ul>
         
         <h2 className='mt-4 mb-2 font-bold'>Preparar Equipo y Materiales</h2>
-        <MyCheckbox label=" Baterias al 100% Celular o Cámara" />
-        <MyCheckbox label=" Casaca oficial"/>
-        <MyCheckbox label=" Credencial"/>
-        <MyCheckbox label=" Dispositivo de grabación (cámara o smarthpone)"/>
+       {// <MyCheckbox label=" Baterias al 100% Celular o Cámara" />
+        //<MyCheckbox label=" Casaca oficial"/>
+        //<MyCheckbox label=" Credencial"/>
+        //<MyCheckbox label=" Dispositivo de grabación (cámara o smarthpone)"/>
+        }
         </div>
         
       </Route>
