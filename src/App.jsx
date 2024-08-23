@@ -5,6 +5,8 @@ import image1 from './assets/camarografo.png'
 import image2 from './assets/camarografo2.png'
 import image3 from './assets/footer.png'
 import image4 from './assets/rayita.png'
+import image5 from './assets/llamada1.png'
+import image6 from './assets/llamada2.png'
 
 
 function App() {
@@ -35,11 +37,16 @@ function App() {
         <div className='mx-auto ml-8 mt-4 mb-4'>
         <h2 className=' mb-2 font-bold'>Verificar:</h2>
         <ul>
-          <li>- Nombre y dirección del Establecimiento</li>
-          <li>- Nombre de el/la Director/a Jefe UTP del Establecimiento</li>
-          <li>- Nombre de el/la o los/las Docentes a grabar</li>
-          <li>- Nombre de la agrupación y asignatura de cada Docente a grabar</li>
-          <li>- Hora de presentación y horario de grabación</li>
+          <li><input type="checkbox"  />
+          <label> Nombre y dirección del Establecimiento</label></li>
+          <li><input type="checkbox"  />
+          <label> Nombre de el/la Director/a Jefe UTP del Establecimiento</label></li>
+          <li><input type="checkbox"  />
+          <label> Nombre de el/la o los/las Docentes a grabar</label></li>
+          <li><input type="checkbox"  />
+          <label> Nombre de la agrupación y asignatura de cada Docente a grabar</label></li>
+          <li><input type="checkbox"  />
+          <label> Hora de presentación y horario de grabación</label></li>
         </ul>
         
         <h2 className='mt-4 mb-2 font-bold'>Preparar Equipo y Materiales</h2>
@@ -91,17 +98,22 @@ function App() {
         <input type="checkbox"  />
         <label> Cargador de pilas</label><br/>
         <article className='mt-4 font-semibold'>En algunos casos tendrá que contactar telefónicamente a el docente día previo  (TP y NEEP)</article>
+        <h2 className='font-bold text-justify mt-2 mb-4'>Instrucciones:</h2>
+        <img src={image5} alt="Camarógrafo" className='mb-0 pb-0 llamada w-full ' />
+        <img src={image6} alt="Camarógrafo" className='mt-0 pt-0 llamada w-full' />
         </div>
         
       </Route>
       <Route path="/grabacion">
         <h1 className="text-center">Día de Grabación</h1>
         <img src={image2} alt="Camarógrafo" className='md:mt-14 xs:w-2/3 xs:mt-8 mx-auto w-1/2 ' />
-        <div className='mx-auto ml-8 mt-4 mb-4'>
-          <h2 className='font-bold text-justify mb-4'>Instrucciones:</h2>
-          <div className='text-justify '>- Llegar 15 a 20 minutos antes</div>
-          <div className='text-justify'>- Apagar celular antes de entrar al Establecimiento </div>
-          <div className='text-justify'>- Si se graba con smarthpone activar modo avión</div>
+        <div className='mx-auto ml-8 mt-4 mb-3'>
+          <h2 className='font-bold text-justify mb-2'>Instrucciones:</h2>
+            <div className='text-justify '>- Llegar 15 a 20 minutos antes</div>
+            <div className='text-justify'>- Apagar celular antes de entrar al Establecimiento </div>
+            <div className='text-justify'>- Si se graba con smarthpone activar modo avión</div>
+          <h2 className='font-bold text-justify mt-4 mb-2'>Protocolo:</h2>
+            <div className='text-justify '>- Llegar 15 a 20 minutos antes</div>
         </div>
       </Route>
 
