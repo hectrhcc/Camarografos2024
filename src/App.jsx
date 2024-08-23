@@ -11,7 +11,7 @@ import image4 from './assets/rayita.png'
 
 function App() {
   return (
-    <div className='max-w-screen-md mx-auto'>
+    <div className='max-w-screen-md mx-auto lg: sombra'>
       <div className='navbar'>
       <h1 className='text-center pb-2 pt-8 mt-0  md:w-1/2 lg:w-1/2 mx-auto'>Team Camarógraf@s Zona Norte</h1>
       <img src={image4} alt="Camarógrafo" className='mx-auto md:w-1/4 mt-0 pt-0 xs:w-1/3' />
@@ -45,6 +45,8 @@ function App() {
           <label> Nombre de la agrupación y asignatura de cada Docente a grabar</label></li>
           <li><input type="checkbox"  />
           <label> Hora de presentación y horario de grabación</label></li>
+          <li><input type="checkbox"  />
+          <label> Planifique su tiempo de traslado, rutas factibles y locomoción</label></li>
         </ul>
         
         <h2 className='mt-4 mb-2 font-bold'>Preparar Equipo y Materiales</h2>
@@ -95,6 +97,7 @@ function App() {
         <label> Pilas AAA</label><br/>
         <input type="checkbox"  />
         <label> Cargador de pilas</label><br/>
+
         <article className='mt-4 font-semibold'>En algunos casos tendrá que contactar telefónicamente a el docente día previo  (TP y NEEP)</article>
         <h2 className='text-lg font-bold text-justify mt-2 mb-4'>Instrucciones Llamada:</h2>
         <ul>
@@ -159,12 +162,35 @@ utilizar Micrófono inalámbrico para grabar correctamente el audio.</li>
         <h1 className="text-center">Día de Grabación</h1>
         <img src={image2} alt="Camarógrafo" className='md:mt-14 xs:w-2/3 xs:mt-8 mx-auto w-1/2 ' />
         <div className='mx-auto ml-8 xs:ml-6 mt-4 mb-3'>
-          <h2 className='font-bold text-justify mb-2'>Instrucciones:</h2>
+          <h2 className='font-bold text-justify mb-2'>Instrucciones antes de ingresar :</h2>
+
             <div className='text-justify '>- Llegar 15 a 20 minutos antes</div>
             <div className='text-justify '>- Apagar celular antes de entrar al Establecimiento </div>
             <div className='text-justify'>- Si se graba con smarthpone activar modo avión</div>
+            <div className='text-justify'>- Confirmar que lleva todos los materiales y el equipamiento de ese día</div>
+            <div className='text-justify'>- Recuerde ingresar utilizando su casaca y credencial de camarógrafo/a acreditado/a</div>
           <h2 className='font-bold text-justify mt-4 mb-2'>Protocolo:</h2>
             <div className='text-justify '>- Llegar 15 a 20 minutos antes</div>
+            <div className='text-justify '>- Preséntese con su nombre y apellido</div>
+            <div className='text-justify '>- Indique que usted es “camarógrafo/a acreditado/a de DocenteMás” y motivo de su visita</div>
+            <div className='text-justify '>- Señale el nombre de el o los docentes o educadores/as a grabar.</div>
+            <div className='text-justify '>- Solicite hablar con la persona encargada del proceso en el establecimiento</div>
+          
+            <h2 className='font-bold text-justify mt-4 mb-2'>Instrucciones ingresar aula :</h2>
+            <div className='text-justify '>- Saludar al docente de manera cordial </div>
+            <div className='text-justify '>- Presentarse como <b>“Camarógrafo/a acreditado/a de DocenteMás”</b>, señalando su nombre y apellido</div>
+            <div className='text-justify '>- Solicite a el/la docente que informe a los estudiantes de su presencia de manera discreta y breve</div>
+            <div className='text-justify '>- Determinar ubicación del equipamiento de grabación en el aula</div>
+            <div className='text-justify '>- En caso de ser necesario, cierre las ventanas para evitar el ruido exterior.</div>
+            <div className='text-justify '>- Ubique la cámara desde el costado donde las ventanas queden a su espalda.</div>
+            <div className='text-justify '>- Cierre las cortinas que están en el lado opuesto a donde
+            se ubicaría usted para evitar el contraluz</div>
+            <div className='text-justify '>- Si no hay cortinas, sitúese a espaldas del sector que recibe mayor cantidad de luz</div>
+            <div className='text-justify '>- Realice pruebas para verificar si cuenta con una imagen nítida y sin contraluz</div>
+            <div className='text-justify '>- Si el aula tiene ventanales por todos lados, maneje la altura de la cámara y su inclinación</div>
+            <div className='text-justify '>- Ubiquese teniendo presente que debe lograr enfocar al docente de perfil o de frente</div>
+            <div className='text-justify '>- Si usa proyector en la clase, debe realizar pruebas de luminosidad para no quedar a oscuras/contraluz</div>
+            <div className='text-justify '>- </div>
         </div>
         <Footer />
       </Route>
