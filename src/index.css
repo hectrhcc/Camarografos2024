@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  color-scheme: light dark;
+  color: rgba(13, 13, 13, 0.87);
+  background-color: #f9f9f9;
+
+  
+}
+
+.navbar{
+  background-color: #1C4B8F;
+  color:whitesmoke;
+}
+
+a {
+
+ 
+  text-decoration: inherit;
+}
+a:hover {
+  color: #878df9;
+}
+
+
+h1 {
+  font-size: 2.2em;
+  line-height: 1.1;
+  margin-top: 2.5rem;
+}
+
+
+
+
