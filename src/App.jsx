@@ -11,7 +11,7 @@ import image4 from './assets/rayita.png'
 
 function App() {
   return (
-    <div className='max-w-screen-md mx-auto lg: sombra'>
+    <div className='max-w-screen-md mx-auto  lg:margin-4 sombra  bg-white '>
       <div className='navbar'>
       <h1 className='text-center pb-2 pt-8 mt-0  md:w-1/2 lg:w-1/2 mx-auto'>Team Camarógraf@s Zona Norte</h1>
       <img src={image4} alt="Camarógrafo" className='mx-auto md:w-1/4 mt-0 pt-0 xs:w-1/3' />
@@ -25,14 +25,14 @@ function App() {
 
       <Route path="/">
         <h1 className="text-center">Camarógrafo/a Acreditado/a</h1>
-        <img src={image1} alt="Camarógrafo" className='md:mt-14 xs:w-2/3 xs:mt-8 mx-auto w-1/2  rounded-full overflow-hidden' />
+        <a href="https://drive.google.com/drive/folders/1tVLIoymAdyh1FOCAD8dD9EGFXnDx4911" target='_blank' rel="nofollow noopener noreferrer"><img src={image1} alt="Camarógrafo" className='md:mt-14 xs:w-2/3 xs:mt-8 mx-auto w-1/2  rounded-full overflow-hidden' /></a>
         <h1 className='text-center font-semibold'>Año 2024</h1>
         <Footer />
       </Route>
 
       <Route path="/previo">
         <h1 className="text-center">Día Previo</h1>
-        <div className='mx-auto ml-8 mt-4 mb-4'>
+        <div className='mx-auto ml-8 mt-4 mb-4 lg:p-2'>
         <h2 className=' mb-2 font-bold'>Verificar:</h2>
         <ul>
           <li><input type="checkbox"  />
@@ -104,19 +104,19 @@ function App() {
           <li>
           1) <span className='underline font-bold'>Presentación y motivo de la llamada</span>: Preséntese y confirme fecha, horario y dirección de la grabación, datos previamente entregados por el CTG.</li>
         <ol type="a">
-          <li className='ml-8 mt-2'>a) <b>Camarógrafo/a</b>: Buenos días, ¿hablo con el/la <b>docente</b> (nombre de el/la docente)?</li>
-          <li className='ml-8 mt-2'>b) Le llamo desde <b>“DocenteMás”, mi nombre es</b> (su nombre) <b>y soy el camarógrafo/a asignado para grabarlo/a el día</b>
+          <li className='ml-4 mt-2'>a) <b>Camarógrafo/a</b>: Buenos días, ¿hablo con el/la <b>docente</b> (nombre de el/la docente)?</li>
+          <li className='ml-4 mt-2'>b) Le llamo desde <b>“DocenteMás”, mi nombre es</b> (su nombre) <b>y soy el camarógrafo/a asignado para grabarlo/a el día</b>
                   (la fecha de grabación) a las (hora de la grabación), en la dirección (dirección del lugar de grabación).</li>
-          <li className='ml-8 mt-2'>c) ¿Usted efectúa la especialidad de (indique la especialidad informada por su CTG)?. En caso de especificar una distinta,
+          <li className='ml-4 mt-2'>c) ¿Usted efectúa la especialidad de (indique la especialidad informada por su CTG)?. En caso de especificar una distinta,
                   debe informar a la brevedad a su CTG.</li>
         </ol>
         <li className='mt-4 '>2) <span className='underline font-bold'>Propósito de la llamada</span>: Solicítele que confirme en qué sala o espacio del colegio realizará la clase a ser grabada: Existen
 dos posibles respuestas:</li>
         <ol type="a">
-          <li className='ml-8 mt-2'>a) <span className='underline'>En Sala de clases</span>: Si indica que la clase <span className='underline'><b>será efectuada en una Sala de clases</b> tradicional</span>; entonces debe saltar a la 
+          <li className='ml-4 mt-2'>a) <span className='underline'>En Sala de clases</span>: Si indica que la clase <span className='underline'><b>será efectuada en una Sala de clases</b> tradicional</span>; entonces debe saltar a la 
             <b> pregunta 3</b>. Entonces, Usted deberá efectuar la grabación como se establece en el punto 4.1 de este instructivo, enten-
             diendo que el nivel de ruido no será un elemento que atente o perjudique la grabación de el/la docente.</li>
-          <li className='ml-8 mt-2'>b) <span className='underline'>En un espacio o dependencia distinta a una Sala de Clases</span>: el/la docente Indica que la <span className='underline font-bold'>realizará en un espacio
+          <li className='ml-4 mt-2'>b) <span className='underline'>En un espacio o dependencia distinta a una Sala de Clases</span>: el/la docente Indica que la <span className='underline font-bold'>realizará en un espacio
             diferente a una Sala de Clases, por ejemplo: en un taller, al aire libre u otro espacio</span>. Infórmele que, para un mejor
             registro del audio, utilizará un Micrófono inalámbrico. Continúe en la pregunta 3.</li>
         </ol>
@@ -124,39 +124,39 @@ dos posibles respuestas:</li>
 Indague sobre los siguientes aspectos:</li>
 <li><b>Camarógrafo/a</b>: Necesito preguntarle sobre algunos aspectos de la clase que desarrollará:</li>
 <ol type="a">
-<li className='ml-8 mt-2'>a) La o las actividades que se efectuarán en la clase: Indíqueme si debo tener algún cuidado en mi rol de camarógrafo en los desplazamientos que eventualmente debo efectuar al grabar. Por ejemplo, con herramientas, artefactos o utensilios
+<li className='ml-4 mt-2'>a) La o las actividades que se efectuarán en la clase: Indíqueme si debo tener algún cuidado en mi rol de camarógrafo en los desplazamientos que eventualmente debo efectuar al grabar. Por ejemplo, con herramientas, artefactos o utensilios
 que los estudiantes puedan utilizar.</li>
-<li className='ml-8 mt-2'>b) En la actividad a realizar durante la clase, <b>Si tiene planificado</b> el uso de herramientas, artefactos o utensilios que
+<li className='ml-4 mt-2'>b) En la actividad a realizar durante la clase, <b>Si tiene planificado</b> el uso de herramientas, artefactos o utensilios que
 puedan generar riesgo al realizar desplazamientos durante la grabación, como por ejemplo si en:</li>
 <ul>
-<li className='ml-14'>- Una clase de cocina, utilizarán batidoras,</li>
-<li className='ml-14'>- Una clase de carpintería, utilizarán sierra eléctrica,</li>
-<li className='ml-14'>- En construcción metálica, utilizarán galletero para cortar,</li>
-<li className='ml-14'>- O, soldarán para armar una estructura metálica,</li>
-<li className='ml-14'>- U otras actividades.</li>
+<li className='ml-10'>- Una clase de cocina, utilizarán batidoras,</li>
+<li className='ml-10'>- Una clase de carpintería, utilizarán sierra eléctrica,</li>
+<li className='ml-10'>- En construcción metálica, utilizarán galletero para cortar,</li>
+<li className='ml-10'>- O, soldarán para armar una estructura metálica,</li>
+<li className='ml-10'>- U otras actividades.</li>
 </ul>
 </ol>
 <li className='mt-4'>4) <span className='underline font-bold'>Cierre del contacto telefónico</span>: Según lo conversado, <b>le confirmo la siguiente información</b>:</li>
 <ol type="a">
-<li className='ml-8 mt-2'>
+<li className='ml-4 mt-2'>
 a) <b>Su nombre es</b> (nombre del o la docente), la grabación se realizará el (fecha de grabación), a las (hora de la grabación),
 en (dirección de la grabación).</li>
-<li className='ml-8 mt-2'>
+<li className='ml-4 mt-2'>
 b) Confirma que su clase se realizará en una Sala de Clases: SI / NO.</li>
 <ul>
-<li  className='ml-16'><span className='underline'>Caso SI</span>: En Sala de Clases NO se requiere el uso de Micrófono inalámbrico, ya que el nivel de ruido no provocará
+<li  className='ml-10'><span className='underline'>Caso SI</span>: En Sala de Clases NO se requiere el uso de Micrófono inalámbrico, ya que el nivel de ruido no provocará
 problemas en la calidad de audio a registrar.</li>
 
-<li  className='ml-16'><span className='underline'>Caso NO</span>: En caso de efectuar la clase en taller u aire libre u otra dependencia distinta a una sala de clases, se debe
+<li  className='ml-10'><span className='underline'>Caso NO</span>: En caso de efectuar la clase en taller u aire libre u otra dependencia distinta a una sala de clases, se debe
 utilizar Micrófono inalámbrico para grabar correctamente el audio.</li>
 </ul>
-<li className='ml-8 mt-2'>c) La grabación de su clase requiere que …. (<b>Debe especificar las recomendaciones indicadas por el/la docente</b>).</li>
-<li className='ml-8 mt-2'>d) Recuérdele a el/la docente: <b>“Favor, recuerde anticiparles a los y las estudiantes sobre mi visita”</b>.</li>
-<li className='ml-8 mt-2'>e) <b>Despedida</b>: Gracias por su atención y por los datos proporcionados, que tenga un buen día.</li>
+<li className='ml-4 mt-2'>c) La grabación de su clase requiere que (<b>Debe especificar las recomendaciones indicadas por el/la docente</b>).</li>
+<li className='ml-4 mt-2'>d) Recuérdele a el/la docente: <b>“Favor, recuerde anticiparles a los y las estudiantes sobre mi visita”</b>.</li>
+<li className='ml-4 mt-2 mb-8'>e) <b>Despedida</b>: Gracias por su atención y por los datos proporcionados, que tenga un buen día.</li>
 </ol>
         </ul>
         </div>
-        <Footer />
+      <Footer />
       </Route>
       <Route path="/grabacion">
         <h1 className="text-center">Día de Grabación</h1>
