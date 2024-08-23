@@ -32,7 +32,7 @@ function App() {
 
       <Route path="/previo">
         <h1 className="text-center">Día Previo</h1>
-        <div className='mx-auto ml-8 mt-4'>
+        <div className='mx-auto ml-8 mt-4 mb-4'>
         <h2 className=' mb-2 font-bold'>Verificar:</h2>
         <ul>
           <li>- Nombre y dirección del Establecimiento</li>
@@ -48,16 +48,68 @@ function App() {
         //<MyCheckbox label=" Credencial"/>
         //<MyCheckbox label=" Dispositivo de grabación (cámara o smarthpone)"/>
         }
+        <h3 className='mt-4 mb-2 font-bold'>Material de grabación</h3>
+        <input type="checkbox"  />
+        <label> Trípode</label><br/>
+        <input type="checkbox"  />
+        <label> Credencial</label><br/>
+        <input type="checkbox"  />
+        <label> Casaca oficial</label><br/>
+        <input type="checkbox"  />
+        <label> Sobre módulo 2</label><br/>
+        <input type="checkbox"  />
+        <label> Sello de seguridad</label><br/>
+        <input type="checkbox"  />
+        <label> Soporte para smarthpone</label><br/>     
+        <input type="checkbox"  />
+        <label> Comprobante de grabación</label><br/>
+        <input type="checkbox"  />
+        <label> Adhesivo de identificación</label><br/>
+        
+        <input type="checkbox"  />
+        <label> Certificado de inhabilidades</label><br/>
+        
+        <input type="checkbox"  />
+        <label> Memoria microsd con adaptador</label><br/>
+        <input type="checkbox" id="bateria" />
+        <label for="bateria"> Baterias al 100% celular o cámara</label><br/>  
+        <input type="checkbox"  />
+        <label> Lápiz o plumón de tinta de secado rápido</label><br/>
+        <input type="checkbox"  />
+        <label> Dispositivo de grabación (cámara o smarthpone)</label><br/>
+        
+        <input type="checkbox"  />
+        <label> Adaptador de SD para smarthpone o conector para memoria SD (OTG)</label><br/>
+
+        <h3 className='mt-4 mb-2 font-bold'>Material de grabación con micrófono</h3>
+        <input type="checkbox"  />
+        <label> Audífonos</label><br/>
+        <input type="checkbox"  />
+        <label> Micrófono inalámbrico</label><br/>
+        <input type="checkbox"  />
+        <label> Pilas AAA</label><br/>
+        <input type="checkbox"  />
+        <label> Cargador de pilas</label><br/>
+        <article className='mt-4 font-semibold'>En algunos casos tendrá que contactar telefónicamente a el docente día previo  (TP y NEEP)</article>
         </div>
         
       </Route>
       <Route path="/grabacion">
         <h1 className="text-center">Día de Grabación</h1>
         <img src={image2} alt="Camarógrafo" className='md:mt-14 xs:w-2/3 xs:mt-8 mx-auto w-1/2 ' />
+        <div className='mx-auto ml-8 mt-4 mb-4'>
+          <h2 className='font-bold text-justify mb-4'>Instrucciones:</h2>
+          <div className='text-justify '>- Llegar 15 a 20 minutos antes</div>
+          <div className='text-justify'>- Apagar celular antes de entrar al Establecimiento </div>
+          <div className='text-justify'>- Si se graba con smarthpone activar modo avión</div>
+        </div>
       </Route>
 
       <Route path="/postgrabacion">
-        <h1 className="text-center w-1/2 mx-auto">Después de la Grabación</h1>
+        <h1 className="text-center w-1/2 mx-auto">Post-Grabación</h1>
+        <div className='mx-auto ml-8 mt-4 mb-4'>
+          <div className=''></div>
+        </div>
       </Route>
     </div>
   );
