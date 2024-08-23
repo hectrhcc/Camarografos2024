@@ -43,10 +43,10 @@ function App() {
         </ul>
         
         <h2 className='mt-4 mb-2 font-bold'>Preparar Equipo y Materiales</h2>
-        <MyCheckbox label=" Baterias al 100% Celular o Cámara"></MyCheckbox>
-        <MyCheckbox label=" Casaca oficial"></MyCheckbox>
-        <MyCheckbox label=" Credencial"></MyCheckbox>
-        <MyCheckbox label=" Dispositivo de grabación (cámara o smarthpone)"></MyCheckbox>
+        <MyCheckbox label=" Baterias al 100% Celular o Cámara" />
+        <MyCheckbox label=" Casaca oficial"/>
+        <MyCheckbox label=" Credencial"/>
+        <MyCheckbox label=" Dispositivo de grabación (cámara o smarthpone)"/>
         </div>
         
       </Route>
