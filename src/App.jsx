@@ -164,15 +164,15 @@ utilizar Micrófono inalámbrico para grabar correctamente el audio.</li>
         <div className='mx-auto ml-8 xs:ml-6 mt-4 mb-3'>
           <h2 className='font-bold text-justify mb-2'>Instrucciones antes de ingresar :</h2>
 
-            <div className='text-justify '>- Llegar 15 a 20 minutos antes</div>
-            <div className='text-justify '>- Apagar celular antes de entrar al Establecimiento </div>
-            <div className='text-justify'>- Si se graba con smarthpone activar modo avión</div>
-            <div className='text-justify'>- Confirmar que lleva todos los materiales y el equipamiento de ese día</div>
+            <div className='text-justify '>- Llegar <b>15 a 20 minuto</b> antes</div>
+            <div className='text-justify '>- <b>Apagar celular</b> antes de entrar al Establecimiento </div>
+            <div className='text-justify'>- Si se graba con smarthpone activar <b>modo avión</b></div>
+            <div className='text-justify'>- Confirmar que lleva <b>todos los materiales y el equipamiento</b> de ese día</div>
             <div className='text-justify'>- Recuerde ingresar utilizando su casaca y credencial de camarógrafo/a acreditado/a</div>
           <h2 className='font-bold text-justify mt-4 mb-2'>Protocolo:</h2>
-            <div className='text-justify '>- Llegar 15 a 20 minutos antes</div>
-            <div className='text-justify '>- Preséntese con su nombre y apellido</div>
-            <div className='text-justify '>- Indique que usted es “camarógrafo/a acreditado/a de DocenteMás” y motivo de su visita</div>
+            <div className='text-justify '>- Llegar <b>15 a 20 minutos</b> antes</div>
+            <div className='text-justify '>- Preséntese con su <b>nombre y apellido</b></div>
+            <div className='text-justify '>- Indique que usted es “<b>camarógrafo/a acreditado/a de DocenteMás</b>” y motivo de su visita</div>
             <div className='text-justify '>- Señale el nombre de el o los docentes o educadores/as a grabar.</div>
             <div className='text-justify '>- Solicite hablar con la persona encargada del proceso en el establecimiento</div>
           
@@ -181,15 +181,15 @@ utilizar Micrófono inalámbrico para grabar correctamente el audio.</li>
             <div className='text-justify '>- Presentarse como <b>“Camarógrafo/a acreditado/a de DocenteMás”</b>, señalando su nombre y apellido</div>
             <div className='text-justify '>- Solicite a el/la docente que informe a los estudiantes de su presencia de manera discreta y breve</div>
             <div className='text-justify '>- Determinar ubicación del equipamiento de grabación en el aula</div>
-            <div className='text-justify '>- En caso de ser necesario, cierre las ventanas para evitar el ruido exterior.</div>
+            <div className='text-justify '>- En caso de ser necesario, <b>cierre las ventanas</b> para evitar el ruido exterior.</div>
             <div className='text-justify '>- Ubique la cámara desde el costado donde las ventanas queden a su espalda.</div>
-            <div className='text-justify '>- Cierre las cortinas que están en el lado opuesto a donde
+            <div className='text-justify '>- <b>Cierre las cortinas</b> que están en el lado opuesto a donde
             se ubicaría usted para evitar el contraluz</div>
             <div className='text-justify '>- Si no hay cortinas, sitúese a espaldas del sector que recibe mayor cantidad de luz</div>
             <div className='text-justify '>- Realice pruebas para verificar si cuenta con una imagen nítida y sin contraluz</div>
-            <div className='text-justify '>- Si el aula tiene ventanales por todos lados, maneje la altura de la cámara y su inclinación</div>
+            <div className='text-justify '>- Si el aula tiene ventanales por todos lados, <b>maneje la altura de la cámara y su inclinación</b></div>
             <div className='text-justify '>- Ubiquese teniendo presente que debe lograr enfocar al docente de perfil o de frente</div>
-            <div className='text-justify '>- Si usa proyector en la clase, debe realizar pruebas de luminosidad para no quedar a oscuras/contraluz</div>
+            <div className='text-justify '>- Si usa proyector en la clase, debe realizar <b>pruebas de luminosidad</b> para no quedar a oscuras/contraluz</div>
             <div className='text-justify '>- <span className='font-semibold'>Montaje del equipamiento</span></div>
             <div className='text-justify ml-4'>- Instale su trípode y su cámara de video</div>
             <div className='text-justify ml-4'>- Compruebe que el nivel de carga de su batería</div>
@@ -210,7 +210,7 @@ utilizar Micrófono inalámbrico para grabar correctamente el audio.</li>
 <div className='text-justify ml-4 '>- Estas tomas deben efectuarse <b>NO MÁS</b> de 10 veces y por un tiempo máximo de 10 segundos por toma</div>
 <div className='text-justify ml-4 '>- Se encuentra con información en el pizarrón o en la proyección, realice zoom (Basta 1 vez en la grabación)</div>
 <div className='text-justify ml-4 '>- Vuelva a gran angular y siga la secuencia de paneos</div>
-<div className='text-justify ml-4 '>- NO haga zoom en guías, cuadernos o libros de los y las estudiantes</div>
+<div className='text-justify ml-4 '>- <b>NO</b> haga zoom en guías, cuadernos o libros de los y las estudiantes</div>
 <div className='text-justify ml-4 '>- Monitoree constantemente el tiempo de grabación en el visor de su cámara</div>
 <div className='text-justify ml-4 '>- Siga la secuencia de paneos hasta el fin de la clase</div>
 
