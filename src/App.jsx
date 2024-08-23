@@ -1,6 +1,6 @@
 import React from 'react';
 import { Route, Link } from 'wouter';
-import MyCheckbox from './MyCheckbox'; 
+import MyCheckbox from './components/MyCheckbox'; 
 import image1 from './assets/camarografo.png'
 import image2 from './assets/camarografo2.png'
 import image3 from './assets/footer.png'
