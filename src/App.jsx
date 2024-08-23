@@ -176,7 +176,7 @@ utilizar Micrófono inalámbrico para grabar correctamente el audio.</li>
             <div className='text-justify '>- Señale el nombre de el o los docentes o educadores/as a grabar.</div>
             <div className='text-justify '>- Solicite hablar con la persona encargada del proceso en el establecimiento</div>
           
-            <h2 className='font-bold text-justify mt-4 mb-2'>Instrucciones ingresar aula :</h2>
+            <h2 className='font-bold text-justify mt-4 mb-2'>Instrucciones ingresar aula:</h2>
             <div className='text-justify '>- Saludar al docente de manera cordial </div>
             <div className='text-justify '>- Presentarse como <b>“Camarógrafo/a acreditado/a de DocenteMás”</b>, señalando su nombre y apellido</div>
             <div className='text-justify '>- Solicite a el/la docente que informe a los estudiantes de su presencia de manera discreta y breve</div>
@@ -190,7 +190,38 @@ utilizar Micrófono inalámbrico para grabar correctamente el audio.</li>
             <div className='text-justify '>- Si el aula tiene ventanales por todos lados, maneje la altura de la cámara y su inclinación</div>
             <div className='text-justify '>- Ubiquese teniendo presente que debe lograr enfocar al docente de perfil o de frente</div>
             <div className='text-justify '>- Si usa proyector en la clase, debe realizar pruebas de luminosidad para no quedar a oscuras/contraluz</div>
-            <div className='text-justify '>- </div>
+            <div className='text-justify '>- <span className='font-semibold'>Montaje del equipamiento</span></div>
+            <div className='text-justify ml-4'>- Instale su trípode y su cámara de video</div>
+            <div className='text-justify ml-4'>- Compruebe que el nivel de carga de su batería</div>
+            <div className='text-justify ml-4'>- Verifique los ajustes de su cámara</div>
+            <div className='text-justify ml-4'>- Inserte la tarjeta de memoria SD </div>
+            <div className='text-justify ml-4'>- Lea al docente las indicaciones de su credencial </div>
+            <div className='text-justify ml-4'>- Solicite al docente que escriba su RUT en el sobre Módulo 2</div>
+            <div className='text-justify ml-4'>- Facilité al docente lápiz (plumón)</div>
+          <h2 className='font-bold text-justify mt-4 mb-2'>Iniciar Grabación:</h2>  
+          <div className='text-justify '>- Grabar por 5 segundos el RUT de el/la docente</div>
+          <div className='text-justify '>- Retire el Sobre Módulo 2 y diga en voz alta “<b>GRABANDO</b>”</div>
+          <div className='text-justify '>- Realizar 1 Plano General con paneo, describa toda la sala con sus participantes</div>
+          <div className='text-justify '>- Realizar durante toda la clase secuencia de paneos en gran angular, hasta que finalice la clase</div>
+          <div className='text-justify ml-4 mt-1'>- Panee en gran angular lentamente y <b>sin detenerse en ningún grupo/estudiante</b> por más de 10 seg</div>
+          <div className='text-justify ml-4 '>- <b>Siempre debe grabar en gran angular</b>. A menos que cuando en la sala de clases se <b>produzcan interacciones </b>
+ entre docente y estudiantes</div>
+<div className='text-justify ml-4 '>- Si <b>durante el paneo</b> hay interacciones, usted puede <b>utilizar el zoom y cerrarse en plano conjunto</b></div>
+<div className='text-justify ml-4 '>- Estas tomas deben efectuarse <b>NO MÁS</b> de 10 veces y por un tiempo máximo de 10 segundos por toma</div>
+<div className='text-justify ml-4 '>- Se encuentra con información en el pizarrón o en la proyección, realice zoom (Basta 1 vez en la grabación)</div>
+<div className='text-justify ml-4 '>- Vuelva a gran angular y siga la secuencia de paneos</div>
+<div className='text-justify ml-4 '>- NO haga zoom en guías, cuadernos o libros de los y las estudiantes</div>
+<div className='text-justify ml-4 '>- Monitoree constantemente el tiempo de grabación en el visor de su cámara</div>
+<div className='text-justify ml-4 '>- Siga la secuencia de paneos hasta el fin de la clase</div>
+
+          <div className='text-justify '>- Indique al docente cuando se completen 35 minutos (<b>levantando la mano</b>)</div>
+          <div className='text-justify '>- Finalizada la clase, grabe 10 segundos adicionales y luego detenga la grabación</div>
+          <div className='text-justify '>- <b>DEBE parar la grabación al minuto 45 de la clase, como máximo</b></div>
+          <h2 className='font-bold text-justify mt-4 mb-2'>Casos especiales Sin Paneo</h2>
+          <ol type='a'>
+          <li>a) Caso sala de clase con pocos estudiantes:</li>
+          <li>b) Caso sala de clases pequeña</li>
+          </ol>
         </div>
         <Footer />
       </Route>
