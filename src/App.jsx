@@ -32,7 +32,7 @@ function App() {
 
       <Route path="/previo">
         <h1 className="text-center">Día Previo</h1>
-        <div className='mx-auto ml-8 mt-4 mb-4 lg:p-2'>
+        <div className='mx-auto ml-2 mt-4 mb-4 p-2'>
         <h2 className=' mb-2 font-bold'>Verificar:</h2>
         <ul>
           <li><input type="checkbox"  />
@@ -161,7 +161,7 @@ utilizar Micrófono inalámbrico para grabar correctamente el audio.</li>
       <Route path="/grabacion">
         <h1 className="text-center">Día de Grabación</h1>
         <img src={image2} alt="Camarógrafo" className='md:mt-14 xs:w-2/3 xs:mt-8 mx-auto w-1/2 ' />
-        <div className='mx-auto ml-8 xs:ml-6 mt-4 mb-3'>
+        <div className='mx-auto ml-2 mt-4 mb-3 p-2'>
           <h2 className='font-bold text-justify mb-2'>Instrucciones antes de ingresar :</h2>
 
             <div className='text-justify '>- Llegar <span className='font-semibold'>15 a 20 minuto</span> antes</div>
@@ -173,7 +173,7 @@ utilizar Micrófono inalámbrico para grabar correctamente el audio.</li>
             <div className='text-justify '>- Llegar <span className='font-semibold'>15 a 20 minutos</span> antes</div>
             <div className='text-justify '>- Preséntese con su <span className='font-semibold'>nombre y apellido</span></div>
             <div className='text-justify '>- Indique que usted es “<span className='font-semibold'>camarógrafo/a acreditado/a de DocenteMás</span>” y motivo de su visita</div>
-            <div className='text-justify '>- Señale el nombre de el o los docentes o educadores/as a grabar.</div>
+            <div className='text-justify '>- Señale el nombre de el o los docentes a grabar.</div>
             <div className='text-justify '>- Solicite hablar con la persona encargada del proceso en el establecimiento</div>
           
             <h2 className='font-bold text-justify mt-4 mb-2'>Instrucciones ingresar aula:</h2>
@@ -228,7 +228,7 @@ utilizar Micrófono inalámbrico para grabar correctamente el audio.</li>
 
       <Route path="/postgrabacion">
         <h1 className="text-center w-1/2 mx-auto">Post-Grabación</h1>
-        <div className='mx-auto ml-8 mt-4 mb-4'>
+        <div className='mx-auto ml-2 mt-4 mb-4 p-2'>
         <h2 className='font-bold text-justify mt-4 mb-2'>Mostrar</h2>
         <div className='text-justify ml-4 '>- Los 2 primeros y los 2 últimos minutos de la grabación</div>
         <h2 className='font-bold text-justify mt-4 mb-2'>Proteger la memoria</h2>
