@@ -188,7 +188,7 @@ utilizar Micrófono inalámbrico para grabar correctamente el audio.</li>
             <div className='text-justify '>- Si no hay cortinas, sitúese a espaldas del sector que recibe mayor cantidad de luz</div>
             <div className='text-justify '>- Realice pruebas para verificar si cuenta con una imagen nítida y sin contraluz</div>
             <div className='text-justify '>- Si el aula tiene ventanales por todos lados, <span className='font-semibold'>maneje la altura de la cámara y su inclinación</span></div>
-            <div className='text-justify '>- Ubiquese teniendo presente que debe lograr enfocar al docente de perfil o de frente</div>
+            <div className='text-justify '>- Ubiquese teniendo presente que debe lograr enfocar al docente de perfil </div>
             <div className='text-justify '>- Si usa proyector en la clase, debe realizar <span className='font-semibold'>pruebas de luminosidad</span> para no quedar a oscuras/contraluz</div>
             <div className='text-justify '>- <span className='font-semibold'>Montaje del equipamiento</span></div>
             <div className='text-justify ml-4'>- Instale su trípode y su cámara de video</div>
@@ -229,7 +229,49 @@ utilizar Micrófono inalámbrico para grabar correctamente el audio.</li>
       <Route path="/postgrabacion">
         <h1 className="text-center w-1/2 mx-auto">Post-Grabación</h1>
         <div className='mx-auto ml-8 mt-4 mb-4'>
-          <div className=''></div>
+        <h2 className='font-bold text-justify mt-4 mb-2'>Mostrar</h2>
+        <div className='text-justify ml-4 '>- Los 2 primeros y los 2 últimos minutos de la grabación</div>
+        <h2 className='font-bold text-justify mt-4 mb-2'>Proteger la memoria</h2>
+        <div className='text-justify ml-4 mt-2 '><span className='font-semibold'>1. Deje</span> la Memoria MicroSD <span className='font-semibold'>en su adaptador SD</span> y con el seguro de grabación en posición Lock</div>
+        <ul>
+        <li className='mt-2 ml-8'>a)  Si grabó con la tarjeta microSD utilizando el adaptador SD, retire la tarjeta de la cámara, manténgala en el
+        adaptador y deslice el seguro de grabación a la posición “<span className='font-semibold'>Lock</span>”</li>
+          <li className='ml-8'>b) Si grabó directamente en la tarjeta microSD, retire la tarjeta de la cámara, insértela en el adaptador SD
+          y deslice el seguro de grabación a la posición “<span className='font-semibold'>Lock</span>”.</li>
+          </ul>
+          <div className='text-justify ml-4 mt-2  '><span className='font-semibold'>2. Escriba el RUT</span> del docente en el Adhesivo de Identificación con la info del Sobre Módulo 2 </div>
+          <div className='mt-2'><span className='text-justify ml-4 font-semibold '>3. Guarde la Memoria SD dentro de su respectiva caja</span>: Recuerde, si grabó en una MicroSD, ésta  <span className='font-semibold'>DEBE</span> estar dentro del adaptador SD y guardarse de esa forma en la caja plástica</div>  
+          <div className='mt-2' ><span className='text-justify ml-4 font-semibold'>4. Rotule de caja plástica</span>:Pegue a la caja plástica que contiene la microSD el Adhesivo de Identificación que previamente completó con el RUT del docente</div>  
+          <div className='mt-2' ><span className='text-justify ml-4 font-semibold'>5. Selle la caja plástica de la tarjeta MicroSD</span>: Para ello, utilice el Sello de Seguridad de color rojo</div>
+          <div className='mt-2' ><span className='text-justify ml-4 font-semibold'>6. Guarde en el “Sobre Módulo 2”</span>: Guarde la grabación (caja plástica con tarjeta MicroSD sellada e identificada) en el Sobre Módulo 2. </div>
+          <div className='mt-2' ><span className='text-justify ml-4 font-semibold'>7. Selle el sobre</span> con la banda adhesiva del mismo</div>
+          <div className='mt-2' ><span className='text-justify ml-4 font-semibold'>8. Pegue “QR Sobre”</span> en el espacio indicado para ello en el Sobre Módulo 2.</div>
+          
+  <h2 className='font-bold text-justify mt-4 mb-2'>Entregar</h2>
+      <div className='text-justify ml-4 mt-2  '><span className='font-semibold'>1. Complete el Comprobante de grabación</span> con los datos del docente. Recuerde confirmar con el docente que el RUT se encuentre bien escrito (en sobre y caja plástica).Verificado,
+use esta info. para completar el comprobante de grabación.</div>
+      <div className='text-justify ml-4 mt-2  '><span className='font-semibold'>2. Firma</span>: Pida al docente que firme el comprobante de grabación y luego guárdelo (original y duplicado). <span className='font-semibold'>NO entregue ningún ejemplar al docente</span>. Ambos deben ser entregados posteriormente a su CTG</div>
+      <div className='text-justify ml-4 mt-2  '><span className='font-semibold'>3. Entregue el Sobre Módulo 2</span> cerrado al docente</div>
+      <div className='text-justify ml-4 mt-2  '><span className='font-semibold'>4. Recomiendez</span> al docente guardar la grabación en un lugar fresco y seco, protegiéndola de factores
+      que puedan dañarla, y evitar exponerla a los rayos del sol, fuentes de calor, humedad o a cualquier campo magnético</div> 
+      <div className='text-justify ml-4 mt-2  '><span className='font-semibold'>5. En caso </span> que el docente <span className='font-semibold'>consulte qué hacer con el sobre</span>, señalar que el sobre debe ser entregado al Sostenedor o Encargado de Evaluación, quien coordinará el envío hacia DocenteMás</div>
+          <ul>       
+            <li className='ml-8'>a) Sugiérale al docente que haga entrega a la brevedad de su grabación, idealmente en un plazo
+            no mayor a 5 días hábiles</li>
+            <li className='ml-8'>b) El docente  podrá encontrar mayor información ingresando a su plataforma interna con su
+            ClaveUnica o visitando el sitio <a className="link" href="https://www.docentemas.cl" target="_blank" rel="nofollow noopener noreferrer">www.docentemas.cl</a></li>
+            <li className='ml-8'>c) Infórmele que puede scanear con su celular QR pegado en el sobre, para notificar a DocenteMás que ya cuenta con su clase grabada. Recomiéndele que realice esta acción ojalá durante el mismo día.</li>
+          </ul> 
+<h2 className='font-bold text-justify mt-4 mb-2'>Desmontar equipamiento y retirarse</h2>
+      <div className='text-justify ml-4 mt-2 '>- Desmonte el equipamiento</div>
+      <div className='text-justify ml-4 mt-2  '>- Guarde todos los implementos utilizados en la grabación (materiales y equipos)</div>
+      <div className='text-justify ml-4 mt-2  '>- Cuadre el stock de sus materiales</div>
+      <div className='text-justify ml-4 mt-2  '>- Despídase del docente, director/a o de otras personas que lo hayan asistido en su labor, agradeciendo sus gestiones.</div>
+<h2 className='font-bold text-justify mt-4 mb-2'>Reportar grabaciones y entregar comprobantes de grabación a CTG</h2>
+<div className='text-justify'>Debe entregar físicamente todos los comprobantes de grabación (original y duplicado) a su CTG. Procure ha-
+cerlo lo antes posible, al menos 2 veces por semana como mínimo.
+El comprobante de grabación le permite a usted, acreditar las grabaciones realizadas ante su CTG y, por
+tanto, su posterior pago.</div>
         </div>
         <Footer />
       </Route>
