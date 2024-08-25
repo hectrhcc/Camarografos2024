@@ -180,6 +180,7 @@ utilizar Micrófono inalámbrico para grabar correctamente el audio.</li>
             <div className='text-justify '>- Saludar al docente de manera cordial </div>
             <div className='text-justify '>- Presentarse como <span className='font-semibold'>“Camarógrafo/a acreditado/a de DocenteMás”</span>, señalando su nombre y apellido</div>
             <div className='text-justify '>- Solicite a el/la docente que informe a los estudiantes de su presencia de manera discreta y breve</div>
+            <div className='mb-2 mt-2 text-justify font-semibold'>En caso de procedimientos diferenciados de grabación <a href="#Anexo" className='link'>ver anexo</a></div>
             <div className='text-justify '>- Determinar ubicación del equipamiento de grabación en el aula</div>
             <div className='text-justify '>- En caso de ser necesario, <span className='font-semibold'>cierre las ventanas</span> para evitar el ruido exterior.</div>
             <div className='text-justify '>- Ubique la cámara desde el costado donde las ventanas queden a su espalda.</div>
@@ -222,6 +223,205 @@ utilizar Micrófono inalámbrico para grabar correctamente el audio.</li>
           <li>a) Caso sala de clase con pocos estudiantes:</li>
           <li>b) Caso sala de clases pequeña</li>
           </ol>
+        <h2 id="Anexo" className='font-bold mt-4 mb-2 underline text-lg'>Anexo</h2>
+        <h2 className='mt-4 mb-3  font-bold text-justify mb-2'>Ed. física</h2>
+        Tenga en cuenta que NO se pueden utilizar cables que puedan llegar a interferir con el normal desarrollo de la grabación o que incluso puedan provocar algún accidente.
+
+cautelando SIEMPRE que en todo momento se mantenga el paneo que permita observar y registrar la interacción entre docente y estudiantes y evitar ubicarse a espaldas del docente ya que esto provocará pérdida de audio.
+
+camarógrafo debe desplazarse siguiendo a el docente, intentando grabarlo de perfil o desde el frente (nunca desde la espalda) y mantener una distancia no superior a 3 metros, de modo de asegurar y mantener en todo momento el registro del audio
+
+Asegúrese de contar con su trípode y utilizarlo de forma recogida sosteniendo en su o sus manos, o en forma de monopie
+
+Siempre mantenga la distancia focal en Gran Angular, realizando paneo que permita observar la interacción entre docente y los estudiantes.
+
+Usted como camarógrafo debe situarse a una distancia menor o máxima de 3 metros respecto a el/la docente, de modo de lograr la mejor calidad de audio y conservar al docente de perfil. Esto implica ubicarse a su derecha o izquierda mirándolo de costado y, tener a los alumnos en el fondo del plano. Si el/la docente se mueve, usted también debe desplazarse, manteniendo como máximo los 3 metros de distancia.
+
+Situación 1: Grupo de estudiantes trabajando en una sola actividad.
+
+En este caso, deberá grabar en gran angular realizando paneo, SIEMPRE a menos de 3 metros del docente, ojalá de perfil o de frente para conservar la calidad del audio e
+imagen, intentando capturar la interacción docente – estudiantes.
+
+Situación 2: Grupo de estudiantes trabajando en estaciones.
+
+En el caso que la clase se desarrolle con los estudiantes realizando actividades por estaciones de trabajo, usted deberá panear sacando la cámara del trípode o con la cámara en éste, en forma de monopie y realizar un desplazamiento
+
+        <h2 className='mt-4 mb-3 font-bold text-justify mb-2'>MTP</h2>
+
+        Grabación en un Espacio CERRADO 
+
+La clase se desarrolla en un espacio cerrado, pero es distinto a una sala de clases tradicional, por ejemplo, en talleres o laboratorios
+
+Debe desplazarse por el espacio siguiendo a el/la docente, intentando grabarlo de perfil o desde el frente y de mantener una distancia no superior a 3 metros, de modo de asegurar y mantener en todo momento el registro del audio.
+
+Si no es posible desplazarse por el espacio, debe ubicarse en el lugar que le permita tener la visión más completa de los y las estudiantes y el/la docente.
+
+Considerar que, si en un momento no pudo desplazarse, pero luego las condiciones cambian (los y las estudiantes cambian su ubicación, se despeja alguna zona, el/la docente se desplaza a otra posición), debe seguir las indicaciones de desplazamiento.
+
+
+Grabación en Espacio ABIERTO 
+
+En este caso, usted debe desplazarse siguiendo a el/la docente, intentando grabarlo de perfil o desde el frente (nunca desde la espalda) y mantener una distancia no superior a 3 metros, de modo de asegurar y mantener en todo momento el registro del audio.
+Siempre debe grabar la interacción entre el/la docente y los/las estudiantes.
+
+Grabaciones CON USO de Micrófono inalámbrico = TABLA 3
+
+Espacio CERRADO - CON USO de Micrófono
+
+Ubíquese en el lugar seleccionado para realizar la grabación, donde pueda ver al docente y la interacción con sus alumnos, siguiendo las indicaciones señaladas en el Protocolo Estándar de Grabación
+
+Debe desplazarse sólo en los momentos en que “pierda de vista” al/la docente. En dichos casos debe seguirlo/a, intentando grabar siempre la interacción docente-alumno/a.
+
+Si no es posible desplazarse por la sala, debe ubicarse en el lugar que le permita tener la visión más completa de el/la docente y los/las estudiantes
+
+Espacio ABIERTO (aire libre) - CON USO de Micrófono
+
+Usted debe desplazarse siguiendo a el/la docente, intentando grabarlo/a de perfil o desde el frente (no desde la espalda) y mantener una distancia no superior a 3 metros, de modo de asegurar y mantener en todo momento el registro del audio.
+
+Si la especialidad a grabar requiere micrófono inalámbrico, compruebe de manera adicional los siguientes aspectos:
+a) Verifique que se escucha de manera correcta el audio del micrófono inalámbrico. En caso de presentarse algún
+problema, debe cambiar la frecuencia, actualizar la vinculación entre receptor y transmisor o revisar el estado de
+las pilas o de las conexiones.
+b) Apoye la instalación del micrófono en el vestuario del o la docente, en un lugar adecuado que favorezca una
+mejor recepción de su voz y le sea cómodo.
+c) Mencione al docente que debe evitar rozar el micrófono ya sea con su cabello, ropa o sus manos ya que esto
+interfiere en la recepción del sonido.
+d) Antes de comenzar la grabación verifique que instaló correctamente las conexiones entre el micrófono y la
+cámara de video o smartphone.
+e) Debe confirmar que no existan interferencias que puedan afectar el audio de la grabación y que el docente se
+escuche de manera clara a través de los audífonos.
+        <h2 className='mt-4 mb-3 font-bold text-justify mb-2'>ED. Parvularia</h2>
+        Tiempo de grabación   
+
+Sala Cuna 25 minutos
+Nivel Medio 30 minutos
+Nivel Transición 40 minutos
+
+Recuerde, en estos casos no utilizar cables (alargador eléctrico) ya que pueden afectar y llegar a interferir con el normal desarrollo de la grabación. A excepción que el nivel de energía en la batería genere riesgo para finalizarla.
+
+Antes de iniciar la clase, consulte y acuerde con el/la educador/a si es factible el uso de un alargador o extensión eléctrica. Para prevenir este inconveniente, se solicita revisar periódicamente o al menos 2 veces por semana, lo siguiente:
+• Su dispositivo de grabación está funcionando correctamente, registrando imagen y audio sin dificultad.
+• Las baterías de su cámara están en buen estado y tienen autonomía suficiente para efectuar las grabaciones diariamente planificadas.
+
+En el caso que necesite utilizar un alargador eléctrico, debe asegurar que la instalación del cable no interrumpa, no entorpezca la dinámica de la clase; por lo que debe acomodar el cable por el perímetro de la sala, es decir, entre pared y mesas o mobiliario, de modo que el cable no sea visible y no llame la atención de los niños o niñas. Esta acción debe ser efectuada antes del inicio de la clase.
+
+En caso de sala cuna utilizar cubre calzado
+
+Al interior de la sala pueden encontrarse más adultos, usted debe identificar a la educadora evaluada antes de comenzar la grabación y tener en cuenta que ella será el foco de atención.
+
+Por otra parte, considere llevar pilas y/o baterías adicionales en caso que se descarguen o tenga más grabaciones planificadas.
+
+Considere que los primeros 5 minutos antes de grabar, los niños y niñas deben familiarizarse con usted y los implementos que llevará. Puede que le realicen preguntas o se acerquen a sus implementos, en este caso responda brevemente sus consultas sin promover una conversación más extensa ni causar mayor interés en ellos.
+
+se enfatiza en la importancia de grabar a el/la educador/a y estudiantes de perfil, siempre resguardando quedar a espaldas de las ventanas y en un punto medio en la sala de clases.
+
+Nivel Medio y Nivel Transición
+
+Verifique que se escucha de manera correcta el audio del micrófono inalámbrico.
+• Instale el micrófono a el/la educador/a en un lugar adecuado de su vestuario, que favorezca la recepción de su voz y le sea cómodo.
+• Mencione a el/la educador/a que debe evitar rozar el micrófono ya sea con su cabello, ropa o sus manos ya que esto interfiere en la recepción del sonido.
+• Antes de comenzar la grabación verifique que instaló correctamente las conexiones entre el micrófono y el dispositivo de grabación (cámara de video o smartphone).
+• Debe corroborar que no existan interferencias que puedan afectar el audio de la grabación y que el/la educador/a se escuche de manera clara.
+
+Grabacion 
+
+Debe leer las instrucciones que se encuentran en el reverso de la credencial de el/la camarógrafo/a para grabaciones en Educación Parvularia
+
+Acuerde la señal con la que avisará cuando la grabación alcance los 20, 25 o
+35 minutos, según corresponda a Sala Cuna, Nivel Medio o Nivel Transición
+
+Solicite a el/la educador/a que anote su RUT en el Sobre Módulo 2, el que será utilizado para registrar los pri-
+meros 5 segundos de la grabación. También debe registrar la comuna y la
+región en la que se encuentra el establecimiento educacional.
+
+Para iniciar la grabación, solicite a el/la educador/a que se ubique a una distancia de 2 mts del lugar escogido para montar y ubicar el trípode con la cámara.
+
+Las grabaciones que se realizan a el educador de Educación Parvularia deben ser grabadas en su primera toma (por 5 segundos) sosteniendo el Sobre Módulo 2 con el RUT escrito por él o ella de forma previa.
+
+Grabe en primer plano por 5 segundos, el RUT registrado en el sobre del Módulo 2 y el rostro de el/la educador/a. Además, solicite que diga su RUT en voz alta para poder distinguirla de otros profesionales 
+
+Luego que el/la educador/a dicte su RUT, diga en voz alta la palabra “GRABANDO” para que deje a un lado el Sobre Módulo 2 y sepa que debe iniciar la clase. En este momento continúa la grabación sin cortar y comienza a correr el tiempo de grabación de la clase
+
+Posteriormente, realice un Plano General con Paneo donde describa toda la sala con todos sus asistentes.
+
+Luego, siga lentamente en un gran angular los desplazamientos de el/la educador/a. Procure encuadrar y mostrar en todo momento a el/la educador/a y su interacción con los niños/as, excepto en las instancias de higiene íntima, en dichos casos debe enfocar otra parte de la sala y luego siga a el/la educador/a.
+
+Cuando los niños/as se agrupen y trabajen con distintos adultos, utilice zoom y cierre la toma en un plano conjunto para captar lo que hace el/la educador/a con los niños/as que se encuentra trabajando. Ocupe el mismo criterio cada vez que el/la educador/a se acerque a los estudiantes.
+
+Recuerde estar atento y monitorear el audio con los audífonos (cuando se deba utilizar micrófono inalámbrico) y del tiempo de grabación mediante el visor de su cámara.
+
+7. Avise 5 minutos antes de cerrar la grabación. En cada nivel, usted como camarógrafo/a debe avisar mediante la señal acordada de “levantar la mano” a el/la educador/a cuando falten 5 minutos para finalizar el tiempo de grabación:
+a) Sala Cuna: En este nivel se debe avisar a los 20 minutos.
+b) Nivel Medio: En este nivel se debe avisar a los 25 minutos
+c) Nivel Transición: En este nivel se debe avisar a los 35 minutos.
+
+8. Siga la secuencia de grabación hasta completar los minutos establecidos como tiempo máximo en el respectivo nivel, ver en Tabla 1. Luego deje de grabar y diga en voz alta, según el nivel:
+a) Sala Cuna : Diga “SE CUMPLIERON LOS 25 MIN”, para que el/la educador/a sepa que ha cortado la grabación.
+b) Nivel Medio: Diga “SE CUMPLIERON LOS 30 MIN”, para que el/la educador/a sepa que ha cortado la grabación.
+c) Nivel Transición: Diga “SE CUMPLIERON LOS 40 MIN”, para que el/la educador/a sepa que ha cortado la grabación.
+
+Nunca detenga la grabación. Si el/la educador/a le pide hacer una pausa durante la grabación, su respuesta debe ser “No estoy autorizado para detener la grabación, a menos que se cumplan los 30 minutos”. Este ejemplo corresponde a una clase de Nivel Medio. Para los niveles de sala cuna y nivel transición se utiliza el mismo mensaje
+
+Post grabacion Idem a lo estandar
+        <h2 className=' mt-4 mb-3 font-bold text-justify '>NEEP</h2>
+        Dentro de la sala pueden encontrarse más adultos, usted debe identificar al o la educadora o docente evaluada antes de comenzar la grabación y tener en cuenta que ella o él será el foco de la grabación.
+
+Características y necesidades especiales
+
+Ausencia de lenguaje oral como medio de comunicación en algunos estudiantes: en esta situación, debe tener mayor resguardo con la ubicación para grabar y tomar en cuenta las recomendaciones de la educadora, con el objetivo de lograr captar las interacciones verbales y no verbales entre él/ella y los estudiantes.
+
+• Participación de estudiantes ciegos o en silla de ruedas en el aula: Para el primer caso, no podrá hacer cambios en la posición del mobiliario ni adecuar la iluminación de la sala para fines de la grabación. En el segundo caso, para evitar accidentes es necesario que usted no use cables durante la grabación para facilitar el libre desplazamiento de los estudiantes. Siga las instrucciones de la educadora, ya que estos aspectos los debe manejar en favor de los estudiantes
+
+• Participación de estudiantes sordos en el aula: puede ocurrir que para llamar la atención de la educadora o de algún compañero golpeen la mesa muy fuerte o la muevan, lo que claramente generará ruido, esto es una manera con la que pueden comunicarse y participar, por lo que debe continuar con la grabación de forma normal.
+
+• Estudiantes que llegan tarde o salen del aula: En algún momento dentro de la grabación puede que algún estudiante llegue tarde o abandone la sala y el o la educadora deba ir tras él. En este caso usted debe continuar la grabación dentro
+de la sala, dado que usted NO debe desplazarse.
+
+• Proximidad física: En algunos casos puede que su presencia llame la atención de algunos estudiantes, en caso que se le acerquen más de lo habitual o le realicen preguntas, usted sea amable con él o ella y siga las recomendaciones entrega-
+das por la educadora de cómo actuar ante ello.
+
+• Lenguaje: podría suceder que algún estudiante diga palabras obscenas o socialmente inapropiadas, o comentarios despectivos, y las repita compulsivamente y en tonos más altos, o en ritmos vocales diferentes a los usados normalmente en conversaciones. Esto es característico de ciertos síndromes y debe tomarlo con normalidad, evitando reaccionar ante esto.
+
+• Instancias de higiene íntimas de los estudiantes en el aula: En cualquiera de estas situaciones, usted NUNCA debe grabarlas, independiente de que la educadora esté a cargo de ello. Durante esos momentos, debe enfocar a otros estudiantes hasta que el/la educadora continúe la clase.
+
+• Descompensaciones: Hay estudiantes que por sus características podrían descompensarse ante ciertas situaciones. En esos casos, SIEMPRE debe actuar siguiendo las indicaciones del o la educadora.
+
+CASOS 
+
+En algunos casos de descompensación las educadoras pueden decidir suspender su grabación. En tal caso, converse con ellas la posibilidad de re-agendar e informe a su CTG para que realice las gestiones pertinentes.
+
+Es posible que alguna educadora que usted deba grabar no tenga comunicación verbal o sea sordo/a o ciego/a. En tal caso, usted deberá grabar la clase complementando las instrucciones del presente instructivo con otras indicaciones particulares que pueden ser informadas por la dirección del establecimiento u oportunamente por su CTG.
+
+En caso de llevar cosas que no utilizará en la grabación, consulte al o la directora donde puede dejarlas para evitar distracciones en los estudiantes que grabará.
+
+Día de la grabación
+
+En este grupo, es el o la docente quien decide si grabar su clase en aula de recursos o aula común. En cualquier situación, usted debe tener presente que su UBICACIÓN dentro del aula tendrá consideraciones diferentes según la alternativa que elija el o la docente.
+
+• Caso Aula Común: En el caso que el o la docente opte por desarrollar su clase en Aula común (sala de clases), usted debe seguir las instrucciones presentadas en el Protocolo Estándar de Grabación, en el punto 6 “Día de la grabación”, tema 6.3 “Preparación para la grabación”. Caso Aula de Recursos: Si el o la educadora decide realizar su clase en Aula de Recursos, usted debe tener en cuenta que generalmente estas salas son pequeñas,
+como box u oficinas, por lo tanto, deberá tener presente las siguientes indicaciones:
+
+• Ubique su dispositivo de grabación (cámara de video o smartphone) considerando la calidad del audio.
+• No invada el espacio del estudiante que se encuentre más cercano a usted.
+• Si en Gran Angular puede ver a todos los estudiantes y a la educadora, usted no necesitará panear.
+
+Recuerde que, para el caso de los estudiantes ciegos, el/la educadora es quien maneja los aspectos relacionados con la luminosidad de la sala.
+
+Las grabaciones que se realizan a el/la docente o educador/a de NEEP deben ser grabadas en su primera toma (por 5 segundos) sosteniendo el Sobre Módulo 2 con el RUT escrito por él o ella de forma previa. mostrando su rostro 
+
+Proceso de grabación
+
+Grabe en primer plano por 5 segundos, el RUT registrado en el sobre del Módulo 2 y el rostro de la educadora.
+Además, solicite que diga su RUT en voz alta para poder distinguirla de otros profesionales o adultos que también puedan participar de la clase.
+• Para ello, solicite a la educadora que se ubique a una distancia máxima de 2 mts del lugar escogido para montar y ubicar el trípode y cámara.
+• Recuérdele que debe completar todos los datos presentes en el Sobre Módulo 2, además del RUT debe completar la comuna y región donde se ubica el establecimiento.
+
+2) Luego que el/la docente o la educador/a dicte su RUT, avise a el/la docente o educador/a con una señal con la mano en alto para que deje a un lado el Sobre Módulo 2 y sepa que puede iniciar la clase. En este momento continúa la grabación sin cortar y comienza a correr el tiempo de 40 minutos de grabación de la clase.
+3) Realice un paneo general donde describa toda la sala con sus participantes.
+4) Luego, siga lentamente gran angular los desplazamientos del o la educadora, y procure grabar en todo momento la interacción con los estudiantes, excepto en las instancias de higiene íntima, en dichos casos debe enfocar lo que hacen los demás estudiantes y luego, nuevamente siga al o la educadora.
+5) Cuando los niños/as se agrupen y trabajen con distintos adultos, utilice zoom y cierre la toma en un plano conjunto para captar lo que hace la educadora con los niños/as que en ese momento se encuentra trabajando. Ocupe el mismo criterio cada vez que el/la educadora se acerque a los estudiantes.
+6) A los 30 minutos de grabación, haga una señal con la mano en alto al o la educadora y siga la secuencia de grabación hasta que la educadora le avise que terminó su clase o hasta completar los 40 minutos de grabación.
+7) Al terminar la clase o alcanzar los 40 minutos, deje de grabar y haga una señal al o la educadora (con la mano en alto) para que sepa que ha cortado la grabación.
         </div>
         <Footer />
       </Route>
