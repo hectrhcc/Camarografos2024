@@ -225,71 +225,74 @@ utilizar Micrófono inalámbrico para grabar correctamente el audio.</li>
           </ol>
         <h2 id="Anexo" className='font-bold mt-4 mb-2 underline text-lg'>Anexo</h2>
         <h2 className='mt-4 mb-3  font-bold text-justify mb-2'>Ed. física</h2>
-        Tenga en cuenta que NO se pueden utilizar cables que puedan llegar a interferir con el normal desarrollo de la grabación o que incluso puedan provocar algún accidente.
+        <div className='text-justify '>Tenga en cuenta que NO se pueden utilizar cables que puedan llegar a interferir con el normal desarrollo de la grabación o que incluso puedan provocar algún accidente.</div>
 
-cautelando SIEMPRE que en todo momento se mantenga el paneo que permita observar y registrar la interacción entre docente y estudiantes y evitar ubicarse a espaldas del docente ya que esto provocará pérdida de audio.
+       <div className='text-justify mt-2'>Cautelando SIEMPRE que en todo momento se mantenga el paneo que permita observar y registrar la interacción entre docente y estudiantes y evitar ubicarse a espaldas del docente ya que esto provocará pérdida de audio.</div>
 
-camarógrafo debe desplazarse siguiendo a el docente, intentando grabarlo de perfil o desde el frente (nunca desde la espalda) y mantener una distancia no superior a 3 metros, de modo de asegurar y mantener en todo momento el registro del audio
+        <div className='text-justify mt-2 '>Camarógrafo debe desplazarse siguiendo a el docente, intentando grabarlo de perfil o desde el frente (nunca desde la espalda) y mantener una distancia no superior a 3 metros, de modo de asegurar y mantener en todo momento el registro del audio</div>
 
-Asegúrese de contar con su trípode y utilizarlo de forma recogida sosteniendo en su o sus manos, o en forma de monopie
+        <div className='text-justify mt-2 '>Asegúrese de contar con su trípode y utilizarlo de forma recogida sosteniendo en su o sus manos, o en forma de monopie</div>
 
-Siempre mantenga la distancia focal en Gran Angular, realizando paneo que permita observar la interacción entre docente y los estudiantes.
+        <div className='text-justify mt-2 '>Siempre mantenga la distancia focal en Gran Angular, realizando paneo que permita observar la interacción entre docente y los estudiantes.</div>
 
-Usted como camarógrafo debe situarse a una distancia menor o máxima de 3 metros respecto a el/la docente, de modo de lograr la mejor calidad de audio y conservar al docente de perfil. Esto implica ubicarse a su derecha o izquierda mirándolo de costado y, tener a los alumnos en el fondo del plano. Si el/la docente se mueve, usted también debe desplazarse, manteniendo como máximo los 3 metros de distancia.
+        <div className='text-justify mt-2 '>Usted como camarógrafo debe situarse a una distancia menor o máxima de 3 metros respecto a el/la docente, de modo de lograr la mejor calidad de audio y conservar al docente de perfil. Esto implica ubicarse a su derecha o izquierda mirándolo de costado y, tener a los alumnos en el fondo del plano. Si el/la docente se mueve, usted también debe desplazarse, manteniendo como máximo los 3 metros de distancia.</div>
 
-Situación 1: Grupo de estudiantes trabajando en una sola actividad.
+        <div className='text-justify mt-2 '><span className='font-semibold underline'>Situación 1</span>: Grupo de estudiantes trabajando en una sola actividad.</div>
 
-En este caso, deberá grabar en gran angular realizando paneo, SIEMPRE a menos de 3 metros del docente, ojalá de perfil o de frente para conservar la calidad del audio e
-imagen, intentando capturar la interacción docente – estudiantes.
+        <div className='text-justify mt-2 '>En este caso, deberá grabar en gran angular realizando paneo, SIEMPRE a menos de 3 metros del docente, ojalá de perfil o de frente para conservar la calidad del audio e imagen, intentando capturar la interacción docente – estudiantes.</div>
 
-Situación 2: Grupo de estudiantes trabajando en estaciones.
+<div className='text-justify mt-2 '><span className='font-semibold underline'>Situación 2</span>: Grupo de estudiantes trabajando en estaciones.</div>
 
-En el caso que la clase se desarrolle con los estudiantes realizando actividades por estaciones de trabajo, usted deberá panear sacando la cámara del trípode o con la cámara en éste, en forma de monopie y realizar un desplazamiento
+<div className='text-justify mt-2 '>En el caso que la clase se desarrolle con los estudiantes realizando actividades por estaciones de trabajo, usted deberá panear sacando la cámara del trípode o con la cámara en éste, en forma de monopie y realizar un desplazamiento</div>
 
-        <h2 className='mt-4 mb-3 font-bold text-justify mb-2'>MTP</h2>
+        <h2 className='mt-8 mb-3 font-bold text-justify mb-2'>MTP</h2>
 
-        Grabación en un Espacio CERRADO 
+        <div className='text-justify mt-2 '><span className='font-semibold underline'>Grabación en un Espacio CERRADO</span></div>
 
-La clase se desarrolla en un espacio cerrado, pero es distinto a una sala de clases tradicional, por ejemplo, en talleres o laboratorios
+<div className='text-justify mt-2 '>La clase se desarrolla en un espacio cerrado, pero es distinto a una sala de clases tradicional, por ejemplo, en talleres o laboratorio</div>
 
-Debe desplazarse por el espacio siguiendo a el/la docente, intentando grabarlo de perfil o desde el frente y de mantener una distancia no superior a 3 metros, de modo de asegurar y mantener en todo momento el registro del audio.
+<div className='text-justify mt-2 '>Debe desplazarse por el espacio siguiendo a el/la docente, intentando grabarlo de perfil o desde el frente y de mantener una distancia no superior a 3 metros, de modo de asegurar y mantener en todo momento el registro del audio</div>
 
-Si no es posible desplazarse por el espacio, debe ubicarse en el lugar que le permita tener la visión más completa de los y las estudiantes y el/la docente.
+<div className='text-justify mt-2 '>Si no es posible desplazarse por el espacio, debe ubicarse en el lugar que le permita tener la visión más completa de los y las estudiantes y el/la docente</div>
 
-Considerar que, si en un momento no pudo desplazarse, pero luego las condiciones cambian (los y las estudiantes cambian su ubicación, se despeja alguna zona, el/la docente se desplaza a otra posición), debe seguir las indicaciones de desplazamiento.
+<div className='text-justify mt-2 '>Considerar que, si en un momento no pudo desplazarse, pero luego las condiciones cambian (los y las estudiantes cambian su ubicación, se despeja alguna zona, el/la docente se desplaza a otra posición), debe seguir las indicaciones de desplazamiento</div>
 
 
-Grabación en Espacio ABIERTO 
+<div className='text-justify mt-2 '><span className='font-semibold underline'>Grabación en Espacio ABIERTO</span></div> 
 
-En este caso, usted debe desplazarse siguiendo a el/la docente, intentando grabarlo de perfil o desde el frente (nunca desde la espalda) y mantener una distancia no superior a 3 metros, de modo de asegurar y mantener en todo momento el registro del audio.
-Siempre debe grabar la interacción entre el/la docente y los/las estudiantes.
+<div className='text-justify mt-2 '>En este caso, usted debe desplazarse siguiendo a el/la docente, intentando grabarlo de perfil o desde el frente (nunca desde la espalda) y mantener una distancia no superior a 3 metros, de modo de asegurar y mantener en todo momento el registro del audio.</div>
 
-Grabaciones CON USO de Micrófono inalámbrico = TABLA 3
 
-Espacio CERRADO - CON USO de Micrófono
+<div className='text-justify mt-2 '>Siempre debe grabar la interacción entre el/la docente y los/las estudiantes.</div>
 
-Ubíquese en el lugar seleccionado para realizar la grabación, donde pueda ver al docente y la interacción con sus alumnos, siguiendo las indicaciones señaladas en el Protocolo Estándar de Grabación
+<div className='text-justify mt-4 font-semibold text-lg'>Grabaciones CON USO de Micrófono inalámbrico</div>
 
-Debe desplazarse sólo en los momentos en que “pierda de vista” al/la docente. En dichos casos debe seguirlo/a, intentando grabar siempre la interacción docente-alumno/a.
+<div className='text-justify mt-2 '><span className='font-semibold underline'>Espacio CERRADO - CON USO de Micrófono</span></div>
 
-Si no es posible desplazarse por la sala, debe ubicarse en el lugar que le permita tener la visión más completa de el/la docente y los/las estudiantes
+<div className='text-justify mt-2 '>Ubíquese en el lugar seleccionado para realizar la grabación, donde pueda ver al docente y la interacción con sus alumnos, siguiendo las indicaciones señaladas en el Protocolo Estándar de Grabación</div>
 
-Espacio ABIERTO (aire libre) - CON USO de Micrófono
+<div className='text-justify mt-2 '>Debe desplazarse sólo en los momentos en que “pierda de vista” al/la docente. En dichos casos debe seguirlo/a, intentando grabar siempre la interacción docente-alumno/a.</div>
 
-Usted debe desplazarse siguiendo a el/la docente, intentando grabarlo/a de perfil o desde el frente (no desde la espalda) y mantener una distancia no superior a 3 metros, de modo de asegurar y mantener en todo momento el registro del audio.
+<div className='text-justify mt-2 '>Si no es posible desplazarse por la sala, debe ubicarse en el lugar que le permita tener la visión más completa de el/la docente y los/las estudiantes</div>
 
-Si la especialidad a grabar requiere micrófono inalámbrico, compruebe de manera adicional los siguientes aspectos:
-a) Verifique que se escucha de manera correcta el audio del micrófono inalámbrico. En caso de presentarse algún
+<div className='text-justify mt-2 '><span className='font-semibold underline'>Espacio ABIERTO (aire libre) - CON USO de Micrófono</span></div>
+
+<div className='text-justify mt-2 '>Usted debe desplazarse siguiendo a el/la docente, intentando grabarlo/a de perfil o desde el frente (no desde la espalda) y mantener una distancia no superior a 3 metros, de modo de asegurar y mantener en todo momento el registro del audio.</div>
+
+<div className='text-justify mt-2 '>Si la especialidad a grabar requiere micrófono inalámbrico, compruebe de manera adicional los siguientes aspectos:</div>
+<ul>
+<li className='text-justify mt-2 ml-4'>a) Verifique que se escucha de manera correcta el audio del micrófono inalámbrico. En caso de presentarse algún
 problema, debe cambiar la frecuencia, actualizar la vinculación entre receptor y transmisor o revisar el estado de
-las pilas o de las conexiones.
-b) Apoye la instalación del micrófono en el vestuario del o la docente, en un lugar adecuado que favorezca una
-mejor recepción de su voz y le sea cómodo.
-c) Mencione al docente que debe evitar rozar el micrófono ya sea con su cabello, ropa o sus manos ya que esto
-interfiere en la recepción del sonido.
-d) Antes de comenzar la grabación verifique que instaló correctamente las conexiones entre el micrófono y la
-cámara de video o smartphone.
-e) Debe confirmar que no existan interferencias que puedan afectar el audio de la grabación y que el docente se
-escuche de manera clara a través de los audífonos.
+las pilas o de las conexiones.</li>
+<li className='text-justify mt-2 ml-4'>b) Apoye la instalación del micrófono en el vestuario del o la docente, en un lugar adecuado que favorezca una
+mejor recepción de su voz y le sea cómodo.</li>
+<li className='text-justify mt-2 ml-4'>c) Mencione al docente que debe evitar rozar el micrófono ya sea con su cabello, ropa o sus manos ya que esto
+interfiere en la recepción del sonido.</li>
+<li className='text-justify mt-2 ml-4'>d) Antes de comenzar la grabación verifique que instaló correctamente las conexiones entre el micrófono y la
+cámara de video o smartphone.</li>
+<li className='text-justify mt-2 ml-4'>e) Debe confirmar que no existan interferencias que puedan afectar el audio de la grabación y que el docente se
+escuche de manera clara a través de los audífonos.</li>
+</ul>
         <h2 className='mt-4 mb-3 font-bold text-justify mb-2'>ED. Parvularia</h2>
         Tiempo de grabación   
 
