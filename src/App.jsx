@@ -469,7 +469,7 @@ Además, solicite que diga su RUT en voz alta para poder distinguirla de otros p
 use esta info. para completar el comprobante de grabación.</div>
       <div className='text-justify ml-4 mt-2  '><span className='font-semibold'>2. Firma</span>: Pida al docente que firme el comprobante de grabación y luego guárdelo (original y duplicado). <span className='font-semibold'>NO entregue ningún ejemplar al docente</span>. Ambos deben ser entregados posteriormente a su CTG</div>
       <div className='text-justify ml-4 mt-2  '><span className='font-semibold'>3. Entregue el Sobre Módulo 2</span> cerrado al docente</div>
-      <div className='text-justify ml-4 mt-2  '><span className='font-semibold'>4. Recomiendez</span> al docente guardar la grabación en un lugar fresco y seco, protegiéndola de factores
+      <div className='text-justify ml-4 mt-2  '><span className='font-semibold'>4. Recomiende</span> al docente guardar la grabación en un lugar fresco y seco, protegiéndola de factores
       que puedan dañarla, y evitar exponerla a los rayos del sol, fuentes de calor, humedad o a cualquier campo magnético</div> 
       <div className='text-justify ml-4 mt-2  '><span className='font-semibold'>5. En caso </span> que el docente <span className='font-semibold'>consulte qué hacer con el sobre</span>, señalar que el sobre debe ser entregado al Sostenedor o Encargado de Evaluación, quien coordinará el envío hacia DocenteMás</div>
           <ul>       
