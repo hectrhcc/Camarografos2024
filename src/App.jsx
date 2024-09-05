@@ -1,5 +1,6 @@
 import React from 'react';
 import { Route, Link } from 'wouter';
+import { useState, useEffect } from "react"
 /*import MyCheckbox from './MyCheckbox'; */
 import Footer from './Footer';
 import image1 from './assets/camarografo.png'
@@ -10,10 +11,30 @@ import image4 from './assets/rayita.png'
 
 
 function App() {
+  const [darkMode, setDarkMode] = useState(false)
+
+  const handleClick = () => {
+    setDarkMode(!darkMode)
+  }
+
+  useEffect(() => {
+    if(darkMode){
+      document.documentElement.classList.add('dark')
+    } else {
+      document.documentElement.classList.remove('dark')
+    }
+  }, [darkMode])
   return (
-    <div className='max-w-screen-md mx-auto  lg:margin-4 sombra  bg-white '>
+    <div className='max-w-screen-md mx-auto  lg:margin-4 sombra  bg-white bg-gray-100 dark:bg-gray-900 text-gray-900 dark:text-white transition-colors duration-300 '>
       <div className='navbar'>
-      <h1 className='text-center pb-2 pt-8 mt-0  md:w-1/2 lg:w-1/2 mx-auto'>Team Camarógraf@s Zona Norte</h1>
+      <div className="flex items-center justify-end mb-4">
+          <p className="text-white dark:text-gray-300 font-bold mr-2 mt-4">Dark mode</p>
+          <label htmlFor="darkmode" className="bg-gray-300 dark:bg-gray-600 w-14 h-7 rounded-full cursor-pointer p-1 relative mr-2 mt-4">
+            <input onClick={handleClick} type="checkbox" id="darkmode" className="sr-only peer" checked={darkMode} readOnly />
+            <div className="w-5 h-5 bg-white rounded-full peer-checked:translate-x-7 transition-all"></div>
+          </label>
+        </div>
+      <h1 className='text-center pb-2 pt-4 mt-0  md:w-1/2 lg:w-1/2 mx-auto'>Team Camarógraf@s Zona Norte</h1>
       <img src={image4} alt="Camarógrafo" className='mx-auto md:w-1/4 mt-0 pt-0 xs:w-1/3' />
       <nav className='w-full flex justify-center items-center'>
         <Link href="/" className="ml-2 mr-5 pb-4 xs:text-md md:text-lg lg:text-lg">Inicio</Link>
